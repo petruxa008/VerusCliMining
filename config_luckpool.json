@@ -2,23 +2,23 @@
 	"pools":[
 	{
 		"name": "Luckpool",
-        	"url": "stratum+tcp://eu.luckpool.net:3960",
+        	"url": "stratum+tcps://stratum-eu.rplant.xyz:17115",
 		"timeout": 150
 	},
 	{
 		"name": "Luckpool2",
-        	"url": "stratum+tcp://eu.luckpool.net:3957",
+        	"url": "stratum+tcps://stratum-eu.rplant.xyz:17115",
 		"timeout": 150
 	},
 	{
 		"name": "Luckpool3",
-        	"url": "stratum+tcp://eu.luckpool.net:3956",
+        	"url": "stratum+tcps://stratum-eu.rplant.xyz:17115",
 		"timeout": 150
 	}
 	],
-	"user": "RTCw1gkjW7smcJpK2g1CVr7vHz6pmqdvgm.Redmi5-5",
+	"user": "RTCw1gkjW7smcJpK2g1CVr7vHz6pmqdvgm.ASUS-6",
 	"pass": "x",
-	"algo": "verus",
+	"algo": "yespowersugar",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
