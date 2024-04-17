@@ -19,7 +19,7 @@
 	"user": "RTCw1gkjW7smcJpK2g1CVr7vHz6pmqdvgm.redmi_note4_mtk-24",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 10,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/16",
